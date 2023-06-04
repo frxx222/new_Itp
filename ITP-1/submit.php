@@ -1,5 +1,6 @@
-<?php 
-function handleFormSubmission() {
+<?php
+function handleFormSubmission()
+{
   // Get form data
   $name = $_POST['name'];
   $email = $_POST['email'];
@@ -34,5 +35,3 @@ function handleFormSubmission() {
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   handleFormSubmission();
 }
-?>
-

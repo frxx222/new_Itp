@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="web.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -81,76 +81,76 @@
                 <img src="main-page/img/poctoy.jpg" alt="">
                 <h3>Poctoy White Beach</h3>
                 <p>Poctoy White Beach, located in the coastal town of Torrijos in Marinduque, is one of the popular beaches in the Philippines. The beach features a kilometer stretch of fine white sand and pristine blue waters that is perfect for swimming and snorkeling. Poctoy White Beach is also home to good seafood like yellowfin, squid, crabs, and shrimp, which are freshly sourced daily.</p>
-                
+
             </div>
 
             <div class="box">
                 <img src="main-page/img/morion.jpg" alt="">
                 <h3>Morioner Festival</h3>
                 <p>The Moriones is a lenten festival held annually on Holy Week on the island of Marinduque. The Moriones tradition has inspired the creation of other festivals in the Philippines where cultural practices is turned into street festivals.The festival is characterized by colorful Roman costumes, painted masks and helmets, and brightly colored tunics. The towns of Boac, Gasan, Santa Cruz, Buenavista and Mogpog in the island of Marinduque become one gigantic stage.</p>
-                
+
             </div>
 
             <div class="box">
                 <img src="main-page/img/palad.jpg" alt="">
                 <h3>Palad SandBar</h3>
-                <p>Palad Sandbar is one of a kind places for outdoor enthusiasts and beach lovers. It features powdery white sands that flush through the crystal clear waters, which  appears during low tide. It's advisable to go here in the morning when the tide is usually low. You can reach sandbar via a 30-minute boat ride  from Maniwaya. Palad Sandbar is a one of a kind place for beach lovers. Located in Maniwaya Island in the province of Sta. Cruz, Marinduque,</p>
-                
+                <p>Palad Sandbar is one of a kind places for outdoor enthusiasts and beach lovers. It features powdery white sands that flush through the crystal clear waters, which appears during low tide. It's advisable to go here in the morning when the tide is usually low. You can reach sandbar via a 30-minute boat ride from Maniwaya. Palad Sandbar is a one of a kind place for beach lovers. Located in Maniwaya Island in the province of Sta. Cruz, Marinduque,</p>
+
             </div>
         </div>
     </section>
 
     <section class="contact" id="contact">
-            <div class="max-width">
-                <h2 class="title">Contact Us</h2>
-                <div class="contact-content">
-                    <div class="column left">
-                        <div class="text">Get in Touch</div>
-                        <p>Feel free to reach out to me anytime. I would be delighted to connect and hear from you. Don't hesitate to drop me a message or give me a call. I'm eager to engage in meaningful conversations and collaborate on exciting opportunities. Let's stay connected!</p>
-                        <div class="icon">
-                            <div class="list">
-                                <i class="fas fa-user"></i>
-                                <div class="info">
-                                    <div class="head">Name</div>
-                                    <div class="sub-title">Jayvee Enobay</div>
-                                </div>
-                            </div>
-
-                            <div class="list">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <div class="info">
-                                    <div class="head">Address</div>
-                                    <div class="sub-title">Marinduqe State College</div>
-                                </div>
-                            </div>
-
-                            <div class="list">
-                                <i class="fas fa-envelope"></i>
-                                <div class="info">
-                                    <div class="head">Email</div>
-                                    <div class="sub-title">abcd@gmail.com</div>
-                                </div>
+        <div class="max-width">
+            <h2 class="title">Contact Us</h2>
+            <div class="contact-content">
+                <div class="column left">
+                    <div class="text">Get in Touch</div>
+                    <p>Feel free to reach out to me anytime. I would be delighted to connect and hear from you. Don't hesitate to drop me a message or give me a call. I'm eager to engage in meaningful conversations and collaborate on exciting opportunities. Let's stay connected!</p>
+                    <div class="icon">
+                        <div class="list">
+                            <i class="fas fa-user"></i>
+                            <div class="info">
+                                <div class="head">Name</div>
+                                <div class="sub-title">Jayvee Enobay</div>
                             </div>
                         </div>
-                    </div>
-                    <div class="column right">
-                        <div class="text">Message Us</div>
-                        <div class="contact-message">
-                            <form method="POST" action="submit.php">
-                                <input type="name" name="name" placeholder="Your Name" required>
-                                <input type="email" name="email" placeholder="Your Email" required>
-                                <textarea name="message" rows="6" placeholder="Your Message"></textarea>
-                                <button type="submit" name="submit" class="btn btn2">Submit</button>
-                            </form>
+
+                        <div class="list">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div class="info">
+                                <div class="head">Address</div>
+                                <div class="sub-title">Marinduqe State College</div>
+                            </div>
+                        </div>
+
+                        <div class="list">
+                            <i class="fas fa-envelope"></i>
+                            <div class="info">
+                                <div class="head">Email</div>
+                                <div class="sub-title">abcd@gmail.com</div>
+                            </div>
                         </div>
                     </div>
                 </div>
+                <div class="column right">
+                    <div class="text">Message Us</div>
+                    <div class="contact-message">
+                        <form method="POST" action="submit.php">
+                            <input type="name" name="name" placeholder="Your Name" required>
+                            <input type="email" name="email" placeholder="Your Email" required>
+                            <textarea name="message" rows="6" placeholder="Your Message"></textarea>
+                            <button type="submit" name="submit" class="btn btn2">Submit</button>
+                        </form>
+                    </div>
+                </div>
             </div>
-        </section>
-        <footer class="copyright">
-            <p>Copyright <i class="fa-regular fa-copyright" style="color: #fff;"></i> TOURISM MANAGEMENTT OF MARINDUQUE </p>
-        </footer>
-    
+        </div>
+    </section>
+    <footer class="copyright">
+        <p>Copyright <i class="fa-regular fa-copyright" style="color: #fff;"></i> TOURISM MANAGEMENTT OF MARINDUQUE </p>
+    </footer>
+
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
